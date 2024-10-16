@@ -1,0 +1,11 @@
+C:\Users\STL User\Desktop\Progra1\Promedio\bin\Debug\Promedio.exe.config
+C:\Users\STL User\Desktop\Progra1\Promedio\bin\Debug\Promedio.exe
+C:\Users\STL User\Desktop\Progra1\Promedio\bin\Debug\Promedio.pdb
+C:\Users\STL User\Desktop\Progra1\Promedio\obj\Debug\Promedio.csproj.AssemblyReference.cache
+C:\Users\STL User\Desktop\Progra1\Promedio\obj\Debug\Promedio.Form1.resources
+C:\Users\STL User\Desktop\Progra1\Promedio\obj\Debug\Promedio.Properties.Resources.resources
+C:\Users\STL User\Desktop\Progra1\Promedio\obj\Debug\Promedio.csproj.GenerateResource.cache
+C:\Users\STL User\Desktop\Progra1\Promedio\obj\Debug\Promedio.csproj.CoreCompileInputs.cache
+C:\Users\STL User\Desktop\Progra1\Promedio\obj\Debug\Promedio.exe
+C:\Users\STL User\Desktop\Progra1\Promedio\obj\Debug\Promedio.pdb
+C:\Users\STL User\Desktop\Progra1\Promedio\obj\Debug\Promedio.Contacto.resources
